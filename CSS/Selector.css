@@ -1,0 +1,21 @@
+/* *{
+    color: rgb(0, 255, 30);
+} */
+h1{
+    color: rgba(255, 20, 50, 0.1);
+}
+.one{
+    color: yellow;
+    background-color: white;
+}
+.two{
+    color: aqua;
+    border: 1px solid red;
+}
+.three{
+    width: 50px;
+}
+
+#Fourth{
+    color: pink
+}

@@ -1,0 +1,22 @@
+/* Margin - the distance between box's outer border and nearest element
+Padding- the distance between box's inner border and its content
+
+*/
+
+.box{
+    border: 10px solid black;
+    width: 580px;
+    height: 380px;
+    margin: 40px;
+    margin-top: 60px;
+    margin-left: 120px;
+    margin-bottom: 300px;
+    margin-right: 400px;
+    margin: 100px 50px 30px 150px;
+    padding: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 50px;
+    padding-top: 150px;
+  
+}

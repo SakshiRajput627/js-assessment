@@ -1,0 +1,20 @@
+.box1{
+  border: 2px solid blue;
+  margin: 10px;
+  display:inline-flex;
+  width: 600px;
+  height: 200px;
+  justify-content: center; /* horizontal alignment*/
+  align-items:center; /* vertical alignment*/
+  /* visibility: hidden; */
+
+}
+.box2{
+  border: 2px solid blue;
+  margin: 10px;
+  display: inline-flex;
+  width: 600px;
+  height: 200px;
+  justify-content: center;
+  align-items: center;
+}

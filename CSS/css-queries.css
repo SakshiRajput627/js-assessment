@@ -1,0 +1,22 @@
+:root{
+    --customcolor:green;
+    --customcolor1:orange;
+    --spacing:10px;
+}
+h1{
+    background-color: var(--customcolor);
+    color: yellow;
+}
+*{
+    margin: calc(var(--spacing)/5);
+    /* margin: var(--spacing); */
+}
+
+@media screen and (max-width:400px) {
+    body {
+        background-color: yellow;
+    }
+    h1{
+        color: blue;
+    }
+}

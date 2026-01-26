@@ -1,0 +1,22 @@
+ol {
+  background: #ff9999;
+  padding: 20px;
+}
+ul {
+    background: #3399ff;
+    padding: 20px;
+}
+
+ol li{
+    background: #ffe5e5;
+    color: darkred;
+    padding: 5px;
+  margin-left: 35px;
+  list-style-type:lower-greek;
+   list-style-position: inside;
+}
+ul li::marker {
+  color: pink;
+  font-size: 15px;
+  list-style-position: inside;
+}
